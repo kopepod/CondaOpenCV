@@ -1,10 +1,6 @@
 # CondaOpenCV
 
-![https://colab.research.google.com/drive/1khiOwLOBPNGTnqMOmTXQdqRbtEDkzTad](https://colab.research.google.com/assets/colab-badge.svg)
-
-<link rel="https://colab.research.google.com/assets/colab-badge.svg" type="image/x-icon" href="https://colab.research.google.com/assets/colab-badge.svg">
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
+![https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/1khiOwLOBPNGTnqMOmTXQdqRbtEDkzTad)
 
 This repository is meant to run opencv using the conda environment
 
