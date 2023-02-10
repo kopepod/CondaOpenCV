@@ -29,7 +29,7 @@ pip install opencv-python
 ```python
 import numpy as np
 import cv2 as cv
-img = cv.imread('home.jpg')
+img = cv.imread('https://raw.githubusercontent.com/kopepod/CondaOpenCV/main/church.jpg')
 gray= cv.cvtColor(img,cv.COLOR_BGR2GRAY)
 sift = cv.SIFT_create()
 kp = sift.detect(gray,None)
