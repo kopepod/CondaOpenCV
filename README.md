@@ -1,6 +1,6 @@
 # CondaOpenCV
 
-![Open In Colab](https://colab.research.google.com/drive/1khiOwLOBPNGTnqMOmTXQdqRbtEDkzTad)
+![https://colab.research.google.com/drive/1khiOwLOBPNGTnqMOmTXQdqRbtEDkzTad](https://colab.research.google.com/assets/colab-badge.svg)
 
 <link rel="https://colab.research.google.com/assets/colab-badge.svg" type="image/x-icon" href="https://colab.research.google.com/assets/colab-badge.svg">
 
