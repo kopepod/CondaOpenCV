@@ -1,6 +1,6 @@
 # CondaOpenCV
 
-This repository is meant to run opencv using the conda envirorment
+This repository is meant to run opencv using the conda environment
 
 ## Conda
 
@@ -40,5 +40,7 @@ img = cv2.drawKeypoints(gray, kp, img)
 cv2.imwrite('output_sift_kp.jpg', img)
 
 ```
+
+![Church]([http://url/to/img.png](https://raw.githubusercontent.com/kopepod/CondaOpenCV/main/church.jpg))
 
 
