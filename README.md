@@ -27,6 +27,7 @@ pip install opencv-python
 ## Python
 
 ```python
+#Demo.py
 import cv2
 import os
 
@@ -42,6 +43,10 @@ cv2.imwrite('output_sift_kp.jpg', img)
 ```
 
 Desired output
+
+```bash
+python Demo.py
+```
 
 <img src="https://raw.githubusercontent.com/kopepod/CondaOpenCV/main/output_sift_kp.jpg" width="400" height="250" />
 
