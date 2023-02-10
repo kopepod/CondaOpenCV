@@ -41,6 +41,8 @@ cv2.imwrite('output_sift_kp.jpg', img)
 
 ```
 
-<img src="https://raw.githubusercontent.com/kopepod/CondaOpenCV/main/church.jpg" width="400" height="300" />
+Desired output
+
+<img src="https://raw.githubusercontent.com/kopepod/CondaOpenCV/main/output_sift_kp.jpg" width="400" height="250" />
 
 
