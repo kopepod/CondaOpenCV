@@ -41,6 +41,8 @@ cv2.imwrite('output_sift_kp.jpg', img)
 
 ```
 
-![Church]([http://url/to/img.png](https://raw.githubusercontent.com/kopepod/CondaOpenCV/main/church.jpg))
+<img src="https://github.com/kopepod/DemographicFaceSynthesis/blob/main/FIGS/GFL.png" width="256" height="256" />
+
+![Church](https://raw.githubusercontent.com/kopepod/CondaOpenCV/main/church.jpg)
 
 
