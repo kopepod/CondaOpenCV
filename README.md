@@ -2,7 +2,7 @@
 
 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/drive/1khiOwLOBPNGTnqMOmTXQdqRbtEDkzTad)
 
-<link rel="https://colab.research.google.com/assets/colab-badge.svg" type="image/x-icon" href="https://colab.research.google.com/drive/1khiOwLOBPNGTnqMOmTXQdqRbtEDkzTad">
+<link rel="https://colab.research.google.com/assets/colab-badge.svg" type="image/x-icon" href="https://colab.research.google.com/assets/colab-badge.svg">
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
 
