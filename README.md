@@ -1,6 +1,6 @@
 # CondaOpenCV
 
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)(https://colab.research.google.com/drive/1khiOwLOBPNGTnqMOmTXQdqRbtEDkzTad)
+![Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/drive/1khiOwLOBPNGTnqMOmTXQdqRbtEDkzTad)
 
 This repository is meant to run opencv using the conda environment
 
